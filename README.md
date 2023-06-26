@@ -1,7 +1,7 @@
 # 합성데이터 기반 객체 탐지 AI 경진대회
 
 ## 🏆 Result
-# **Public score 1st** 1.89089 | **Private score 1st** 1.909
+# **Public score 2nd** 0.99647 | **Private score 2nd** 0.99403   /  1등과 0.00001차이...
 
 주최 : Visol
 
