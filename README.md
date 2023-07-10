@@ -4,6 +4,8 @@
 # **Public score 2nd** 0.99647 | **Private score 2nd** 0.99403  
 #### 1등과 0.00001차이...
 
+<img width="80%" src="https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/assets/49608953/34c7fd28-7117-44f7-8c9e-f092d4a82302"/>
+
 주최 : Visol
 
 주관 : DACON
