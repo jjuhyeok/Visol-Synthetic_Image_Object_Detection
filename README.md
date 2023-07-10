@@ -1,8 +1,9 @@
 # 합성데이터 기반 객체 탐지 AI 경진대회
 
 ## 🏆 Result
-# **Public score 2nd** 0.99647 | **Private score 2nd** 0.99403  | 최종 1등
-#### 1등과 리더보드 mAP 0.00001차이...
+- **Public score 2nd** 0.99647 | **Private score 2nd** 0.99403 | **최종 1등(🏆)**
+#### 1등과 리더보드 mAP 0.00001차이...  
+
 
 <img width="100%" src="https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/assets/49608953/34c7fd28-7117-44f7-8c9e-f092d4a82302"/>
 
