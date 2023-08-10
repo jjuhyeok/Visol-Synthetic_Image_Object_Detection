@@ -2,7 +2,6 @@
 
 ## 🏆 Result
 - **Public score 2nd** 0.99647 | **Private score 2nd** 0.99403 | **최종 1등(🏆)**
-#### 리더보드 1등과 mAP 0.00001차이...  
 
 <img width="70%" src="https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/assets/49608953/f37a3835-8756-4ad7-a77f-cff465f4d323"/>
 
