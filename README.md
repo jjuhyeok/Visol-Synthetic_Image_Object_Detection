@@ -7,7 +7,7 @@
 
 
 
-<img width="100%" src="https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/assets/49608953/34c7fd28-7117-44f7-8c9e-f092d4a82302"/>
+<img width="100%" src="https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/assets/49608953/f7849d76-3276-445d-9154-49b3c3c4e95b"/>
 
 
 
