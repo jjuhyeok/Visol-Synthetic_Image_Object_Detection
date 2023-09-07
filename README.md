@@ -3,7 +3,7 @@
 # 🏆 Result
 ## **최종 1등(🏆)**
 
-<img width="70%" src="https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/assets/49608953/f37a3835-8756-4ad7-a77f-cff465f4d323"/>
+<img width="70%" src="https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/assets/49608953/b305bb1b-c966-4a74-b98c-d01f17bc2df2"/>
 
 
 
