@@ -19,7 +19,7 @@
 
 
 ===========================================================================
-  
+[솔루션 PPT Link](https://github.com/jjuhyeok/Visol-Synthetic_Image_Object_Detection/blob/main/2%EC%B0%A8%ED%8F%89%EA%B0%80_PPT/%5B%EC%A5%AC%ED%98%81%EC%9D%B4%ED%8C%80%5D%5B2%EC%B0%A8%ED%8F%89%EA%B0%80PPT%5D.pdf)  
   
     
   
@@ -28,7 +28,9 @@
 ## **대회 느낀점**
  - 그동안 정형 데이터에만 관심이 많아 정형 데이터 관련 대회만 참여하기 바빠 비전 대회는 하고 있지 않았다.
    하지만 이번 비전 대회는 그 전부터 꾸준히 함께 대회 같이 참여하시는 분께서 같이 나가보자고 하셔서 도전해보게 되었다.
-   이번 대회는 객체탐지 대회지만 학습 데이터가 일반적인 현실 사진이 아닌, AI 가 만든 Synthetic 데이터였다.
+   이번 대회는 객체탐지 대회지만 학습 데이터가 일반적인 현실 사진이 아닌, AI 가 만든 Synthetic 데이터였고, 예측은 실제 이미지로 진행하는 Task였다.
+   그렇기에 AI가 만든 이미지라는 특성을 이용해서 모델링을 하는 것이 필요하였다.
+   
 
    
 ===========================================================================
@@ -42,7 +44,7 @@
 
 ## Project structure
 ```
-Synthetic-Data-Object-Detection
+Visol-Synthetic_Image_Object_Detection
 ├─ .gitignore
 ├─ archive  # implementation pytorch 
 ├─ data  
